@@ -39,7 +39,15 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Back-Log&show_icons=true&theme=radical&layout=compact" alt="Back-Log" /></p>
+<details>
+  <summary>:zap: My Stats</summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Back-Log&show_icons=true&theme=radical" alt="Back-Log" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Back-Log&show_icons=true&theme=radical" alt="Back-Log" /></p>
+</details>
+
+<details>
+  <summary>:zap: Languages I Used to Code</summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Back-Log&show_icons=true&theme=radical&layout=compact" alt="Back-Log" />
+</details>
+
 
