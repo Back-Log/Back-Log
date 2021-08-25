@@ -51,8 +51,5 @@
 </details>
 
 ---
-<br>
-<b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b>
+<em><b>“To become good at anything you have to know how to apply basic principles. To become great at it, you have to know when to violate those principles.”</b></em>
 <br/>
-
-
