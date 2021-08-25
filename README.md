@@ -51,5 +51,5 @@
 </details>
 
 ---
-<em><b> <font size="10">**“To become good at anything you have to know how to apply basic principles. To become great at it, you have to know when to violate those principles.”***                 ― Garry Kasparov</font></b></em>
+<em><b>**“To become good at anything you have to know how to apply basic principles. To become great at it, you have to know when to violate those principles.”**                ― Garry Kasparov</b></em>
 <br/>
