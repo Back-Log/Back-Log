@@ -41,13 +41,13 @@
 
 <details>
   <summary>:zap: My Stats</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Back-Log&show_icons=true&theme=radical" alt="Back-Log" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Back-Log&show_icons=true&theme=radical" alt="Back-Log" />
 
 </details>
 
 <details>
   <summary>:zap: Languages I Used to Code</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Back-Log&show_icons=true&theme=radical&layout=compact" alt="Back-Log" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Back-Log&show_icons=true&theme=radical&layout=compact" alt="Back-Log" />
 </details>
 
 
