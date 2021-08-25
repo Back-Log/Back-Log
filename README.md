@@ -8,13 +8,13 @@
 
 ---
 
-- 🔭 I’m currently exploring **Data Structurs**
+- 🔭 I’m currently exploring **Data Structures**.
 
-- 🌱 I’m currently working on **Android Development**
+- 🌱 I’m currently working on **Android Development**.
 
-- 💬 Ask me about **C/C++, Data Structures, Algorithms**
+- 💬 Ask me about **C/C++, Data Structures, Algorithms**.
 
-- 📫 You can reach me at my mail: pratyush.aith@gmail.com or at https://www.linkedin.com/in/pratyush-pandey-/
+- 📫 You can reach me at my mail: pratyush.aith@gmail.com or at https://www.linkedin.com/in/pratyush-pandey-/.
 
 - ⚡ I'm really passionate and excited about sports.
 
