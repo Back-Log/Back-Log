@@ -7,7 +7,7 @@
 # Hello there 👋, My name is Pratyush Pandey 🤓
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Back-Log&label=Profile%20views&color=0e75b6&style=flat" alt="Back-Log" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Back-Log&label=Profile%20views&color=0e75b6&style=flat" alt="Back-Log" /> </p>
 
 - 🔭 I’m currently exploring **Data Structures**.
 
